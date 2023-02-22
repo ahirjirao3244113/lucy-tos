@@ -23,6 +23,6 @@ You may opt out by Removing the bot from any Server you have the rights for.
 ## Contact Us
 In order to resolve a complaint regarding the Bot or to receive further information regarding use of the Bot, please contact us at:
 
-Support server: https://discord.gg/vbsda5eevx
+Support server: https://discord.gg/mjA9zdwTDF
 
-Discord: ~ Piyush#8752
+Discord: PIyush#3777
